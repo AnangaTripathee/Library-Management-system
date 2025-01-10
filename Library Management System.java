@@ -5,9 +5,7 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- Bonus exam assignment of Ananga Tripathee
- */
+
 class Book {
     public String title;
     public String author;
